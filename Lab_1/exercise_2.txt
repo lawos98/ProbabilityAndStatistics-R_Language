@@ -1,0 +1,4 @@
+
+2.Jaka jest wariancja i odchylenie standardowe opadów?
+
+c(var(precip),sd(precip))

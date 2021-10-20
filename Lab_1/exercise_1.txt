@@ -1,0 +1,4 @@
+
+1.Jaka jest średnia i mediana opadów w rejestrowanych miastach?
+
+c(mean(precip),median(precip))

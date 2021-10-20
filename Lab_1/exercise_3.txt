@@ -1,0 +1,4 @@
+
+3.Jaki jest rozstęp opadów? [Uwaga: standardowa funkcja range() nie liczy wprost rozstępu tylko wektor dwuelementowy zawierający minimum i maksimum].
+
+range(precip)[2]-range(precip)[1]

@@ -1,0 +1,5 @@
+
+4.Jaki jest rozstęp międzykwartylowy? Porównaj wynik uzyskany przy pomocy funkcji IQR() (?IQR)
+z wynikiem uzyskanym (jak na wykładzie) przy pomocy funkcji fivenum() (?fivenum).
+
+c(IQR(precip,type = 1),fivenum(precip)[4]-fivenum(precip)[2])

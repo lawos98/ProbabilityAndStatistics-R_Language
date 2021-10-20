@@ -1,0 +1,4 @@
+
+4.Jakie jest odchylenie przeciętne od średniej? Jakie jest odchylenie przeciętne od mediany?
+
+c(mean(abs(precip - mean(precip))),mean(abs(precip - median(precip))))
